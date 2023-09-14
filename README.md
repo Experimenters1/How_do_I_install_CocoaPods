@@ -30,5 +30,9 @@ Install pods in your project:
 
 #
 ### Package.swift
+Tệp **Package.swift** thường được sử dụng trong các dự án Swift Package Manager (SPM). SPM là một công cụ được tích hợp sẵn trong Xcode để quản lý và cài đặt các gói thư viện Swift.
 
+Nếu dự án của bạn sử dụng SPM và có một tệp **Package.swift**, bạn sẽ tìm thấy nó ở thư mục gốc của dự án của bạn. Thường, nó sẽ nằm cùng cấp với tệp ***.xcodeproj** hoặc ***.xcworkspace.**
+
+Để tạo một tệp Package.swift mới trong một dự án, bạn có thể sử dụng lệnh sau trong Terminal:
    
