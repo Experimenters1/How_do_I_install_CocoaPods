@@ -44,5 +44,7 @@ Nếu dự án của bạn sử dụng SPM và có một tệp **Package.swift**
   </pre>
   <button class="copy-button" data-clipboard-target=".code-snippet"></button>
 </div> <br>
-
+```bash
+ swift package init     
+```
    
