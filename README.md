@@ -39,8 +39,7 @@ Nếu dự án của bạn sử dụng SPM và có một tệp **Package.swift**
 <div class="code-snippet">
   <pre>
     <code>
-       swift package init
-             
+       swift package init      
     </code>
   </pre>
   <button class="copy-button" data-clipboard-target=".code-snippet"></button>
