@@ -27,3 +27,7 @@ Install pods in your project:
 4. Run on terminal “pod install” to install pods.
 
 5. Now, you can import pods into your project.
+
+#
+
+   
