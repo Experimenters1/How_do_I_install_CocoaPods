@@ -44,6 +44,23 @@ Nếu dự án của bạn sử dụng SPM và có một tệp **Package.swift**
   </pre>
   <button class="copy-button" data-clipboard-target=".code-snippet"></button>
 </div> <br>
+
 Lệnh này sẽ tạo một tệp **Package.swift** trong thư mục hiện tại, và bạn có thể chỉnh sửa nó để thêm các phụ thuộc và cài đặt cho dự án SPM của mình.
 
+#
+Để thêm phụ thuộc vào tệp **Package.swift**, bạn có thể thực hiện các bước sau:
+
+1.Mở tệp **Package.swift** trong trình soạn thảo văn bản của bạn.
+
+2.Tìm phần **"dependencies"** trong tệp **Package.swift.** Nếu nó không tồn tại, hãy thêm nó vào bên trong Package:
+<div class="code-snippet">
+  <pre>
+    <code>
+       dependencies: [
+    // ... các phụ thuộc hiện có của bạn
+]      
+    </code>
+  </pre>
+  <button class="copy-button" data-clipboard-target=".code-snippet"></button>
+</div> <br>
    
