@@ -44,6 +44,6 @@ Nếu dự án của bạn sử dụng SPM và có một tệp **Package.swift**
   </pre>
   <button class="copy-button" data-clipboard-target=".code-snippet"></button>
 </div> <br>
-
+Lệnh này sẽ tạo một tệp **Package.swift** trong thư mục hiện tại, và bạn có thể chỉnh sửa nó để thêm các phụ thuộc và cài đặt cho dự án SPM của mình.
 
    
