@@ -79,9 +79,8 @@ dependencies: [
 
 Sau khi đã thêm phụ thuộc, tệp **Package.swift** của bạn có thể trông giống như sau:
 
-<div class="code-snippet">
-  <pre>
-    <code>
+```swift
+
 // swift-tools-version:5.5
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
@@ -104,10 +103,22 @@ let package = Package(
         // .testTarget(name: "MyLibraryTests", dependencies: ["MyLibrary"]),
     ]
 )
+
+```
+
+Lưu tệp **Package.swift**.
+
+Sau đó, bạn có thể sử dụng Swift Package Manager để cập nhật phụ thuộc bằng lệnh sau trong Terminal:
+<div class="code-snippet">
+  <pre>
+    <code>
+         swift package update
     </code>
   </pre>
   <button class="copy-button" data-clipboard-target=".code-snippet"></button>
 </div> <br>
+
+
 
 
 
