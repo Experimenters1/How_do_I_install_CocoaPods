@@ -8,7 +8,7 @@
 
 2. Create .zshrc directory on terminal:  touch ~/.zshrc
 
-3. Run this lines on terminal :    export PATH=/opt/homebrew/bin:$PATH
+3. Run this lines on terminal :    export PATH=/opt/homebrew/bin:$PATH <br>
          source ~/.zshrc
 
 4. Check If Homebrew is available:  brew help
