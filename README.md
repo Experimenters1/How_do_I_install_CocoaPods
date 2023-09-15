@@ -1,5 +1,6 @@
 # How_do_I_install_CocoaPods
 ## How_do_I_install_CocoaPods?
+[How_do_I_install_CocoaPods?](https://stackoverflow.com/questions/20755044/how-do-i-install-cocoapods) <br><br>
 #
 ### Install Homebrew on Mac : 
 
