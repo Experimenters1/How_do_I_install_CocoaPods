@@ -2,6 +2,8 @@
 ## How_do_I_install_CocoaPods?
 [How_do_I_install_CocoaPods?](https://stackoverflow.com/questions/20755044/how-do-i-install-cocoapods) <br><br>
 #
+![Screenshot 2023-11-17 at 10 03 16 AM](https://github.com/Experimenters1/How_do_I_install_CocoaPods/assets/64000769/26a0f13f-b923-4540-b315-bea6d3023b5e)<br><br>
+
 ### Install Homebrew on Mac : 
 
 1. Install Homebrew:      https://brew.sh
